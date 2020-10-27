@@ -20,8 +20,8 @@
  width: 100%;
  border: none;
  border-radius: 50px;
- background: #364f6b;
- color: #fff;
+ background:black;
+ color: rgb(187, 62, 62);
  outline: none;
  padding: 0 60px 0 20px;
  font-size: 18px;
@@ -32,7 +32,7 @@
  opacity: 1;
 }
 .search-box input::placeholder{
- color: #a6a6a6;
+ color:solid red;
 }
 .search-box .search-icon{
  position: absolute;
